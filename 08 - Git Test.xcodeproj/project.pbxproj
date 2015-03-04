@@ -15,6 +15,7 @@
 		2D0D13151AA7582A0014F346 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D0D13141AA7582A0014F346 /* Images.xcassets */; };
 		2D0D13181AA7582A0014F346 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D0D13161AA7582A0014F346 /* LaunchScreen.xib */; };
 		2D0D13241AA7582A0014F346 /* _8___Git_TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0D13231AA7582A0014F346 /* _8___Git_TestTests.m */; };
+		2D0D132F1AA75AC80014F346 /* CCTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D0D132E1AA75AC80014F346 /* CCTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,8 @@
 		2D0D131D1AA7582A0014F346 /* 08 - Git TestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "08 - Git TestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D0D13221AA7582A0014F346 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2D0D13231AA7582A0014F346 /* _8___Git_TestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_8___Git_TestTests.m"; sourceTree = "<group>"; };
+		2D0D132D1AA75AC80014F346 /* CCTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTest.h; sourceTree = "<group>"; };
+		2D0D132E1AA75AC80014F346 /* CCTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,8 @@
 				2D0D13091AA7582A0014F346 /* AppDelegate.m */,
 				2D0D130E1AA7582A0014F346 /* ViewController.h */,
 				2D0D130F1AA7582A0014F346 /* ViewController.m */,
+				2D0D132D1AA75AC80014F346 /* CCTest.h */,
+				2D0D132E1AA75AC80014F346 /* CCTest.m */,
 				2D0D13111AA7582A0014F346 /* Main.storyboard */,
 				2D0D13141AA7582A0014F346 /* Images.xcassets */,
 				2D0D13161AA7582A0014F346 /* LaunchScreen.xib */,
@@ -226,6 +231,7 @@
 				2D0D130A1AA7582A0014F346 /* AppDelegate.m in Sources */,
 				2D0D13101AA7582A0014F346 /* ViewController.m in Sources */,
 				2D0D13071AA7582A0014F346 /* main.m in Sources */,
+				2D0D132F1AA75AC80014F346 /* CCTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
